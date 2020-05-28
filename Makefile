@@ -1,7 +1,7 @@
 name = oksh
-version = 6.6.0
+version = 6.7.0
 tar = $(name)_$(version).orig.tar.gz
-releases = bionic eoan focal
+releases = bionic eoan focal groovy
 source_dir ?= source
 
 default: run
