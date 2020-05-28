@@ -1,5 +1,5 @@
 name = oksh
-version = 6.5.0
+version = 6.6.0
 tar = $(name)_$(version).orig.tar.gz
 releases = bionic eoan focal
 source_dir ?= source
