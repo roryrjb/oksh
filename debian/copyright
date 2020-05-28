@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: oksh
+Source: https://github.com/ibara/oksh
+
+Files: *
+Copyright: Public Domain
+License: Public Domain

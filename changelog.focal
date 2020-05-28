@@ -1,0 +1,5 @@
+oksh (6.5.0-1~focal) focal; urgency=medium
+
+  * Upgrade to latest upstream version
+
+ -- Rory Bradford <rory@dysfunctionalprogramming.com>  Mon, 18 May 2020 22:16:12 +0100

@@ -1,0 +1,11 @@
+Source: oksh
+Section: devel
+Priority: optional
+Maintainer: Rory Bradford <rory@dysfunctionalprogramming.com>
+Build-Depends: debhelper (>= 10), gcc
+Standards-Version: 4.1.2
+Homepage: https://github.com/ibara/oksh
+
+Package: oksh
+Architecture: any
+Description: Portable OpenBSD ksh
