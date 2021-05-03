@@ -6,6 +6,8 @@ __Upstream:__ https://github.com/ibara/oksh
 
 * Ubuntu 18.04 Bionic
 * Ubuntu 20.04 Focal
+* Ubuntu 20.10 Groovy
+* Ubuntu 21.04 Hirsute
 
 ### Installation
 
