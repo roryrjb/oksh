@@ -1,5 +1,5 @@
 ARG release
-FROM ubuntu-builder:$release
+FROM roryrjb/ubuntu-builder:$release
 ARG release
 ARG name
 ARG tar
