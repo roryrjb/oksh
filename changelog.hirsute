@@ -1,0 +1,5 @@
+oksh (6.8.1-1~hirsute) hirsute; urgency=medium
+
+  * Upgrade to latest upstream version
+
+ -- Rory Bradford <rory@dysfunctionalprogramming.com>  Thu, 08 Apr 2021 14:03:18 +0100
