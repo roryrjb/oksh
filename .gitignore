@@ -1,3 +1,4 @@
 oksh-*/
 *.tar.gz
 output/
+source/

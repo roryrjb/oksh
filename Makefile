@@ -1,5 +1,5 @@
 name = oksh
-version = 6.8.0
+version = 6.9.0
 tar = $(name)_$(version).orig.tar.gz
 releases = bionic focal groovy hirsute
 source_dir ?= source
